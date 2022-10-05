@@ -13,4 +13,4 @@ Datasets used:
 
 Findings:
 - Men and women have similar pay when their educational levels and seniority at work are the same 
-- Women don't rise to seniority in the workplace because they leave due to discomfort at work 
+- Topic modelling provided insights of associated areas that would be worth gathering data on and these areas could be considered for future gender-pay-gap reporting.
